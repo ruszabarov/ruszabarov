@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate software engineering pursuing a degree in Computer Science @ CWRU</p>
+<p align="left">I am a passionate software engineer pursuing a degree in Computer Science @ CWRU</p>
 
 ###
 
